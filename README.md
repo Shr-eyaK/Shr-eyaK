@@ -2,5 +2,5 @@
 
 - 🔭 I’m currently working on becoming better at programming, In Java, C++, and HTML. 
 - 🌱 I’m currently pursing a degree in software engineering.
-- ⚡  I'm trying my best to have fun while learning how to code and aim is to create a strong portfolio
+- ⚡  I'm trying my best to have fun while learning how to code and aim to create a strong portfolio.
 
