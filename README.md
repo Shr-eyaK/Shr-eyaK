@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on becoming better at programming, In Java, C++, and HTML. 
-- 🌱 I’m currently pursing a degree in software engineering.
-- ⚡  I'm trying my best to have fun while learning how to code and aim to create a strong portfolio.
+I'm a Software Engineering student with a strong foundation in object-oriented programming and experience working with Java, C++, and HTML. I'm continuously improving my technical skills through coursework and hands-on practice, and I’m focused on building a solid portfolio of projects that demonstrate problem-solving, code quality, and willingness to learn.
 
+🔹 Languages: Java, C++, HTML  
+🔹 Interests: Software development, learning new technologies, and building practical projects
